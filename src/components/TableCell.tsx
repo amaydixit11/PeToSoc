@@ -191,7 +191,7 @@ function Element(props: TableCellProps) {
           <span className="text-xs mt-1 opacity-90">{props.society.size}</span>
         </div>
         
-        {props.society.tsg_recognized && (
+        {props.society.cosa && (
           <span className="absolute bottom-1 right-1 text-xs">
             <span className="inline-flex items-center px-1.5 py-0.5 rounded-full bg-white/20">
               CoSA
