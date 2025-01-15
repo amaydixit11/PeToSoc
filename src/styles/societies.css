@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .block-t {
+    @apply bg-blue-100 hover:bg-blue-200;
+  }
+  
+  .block-to {
+    @apply bg-purple-100 hover:bg-purple-200;
+  }
+  
+  .block-o {
+    @apply bg-green-100 hover:bg-green-200;
+  }
+  
+  .block-w {
+    @apply bg-yellow-100 hover:bg-yellow-200;
+  }
+  
+  .block-c {
+    @apply bg-red-100 hover:bg-red-200;
+  }
+  
+  .block-cc {
+    @apply bg-pink-100 hover:bg-pink-200;
+  }
+  
+  .block-u {
+    @apply bg-gray-100 hover:bg-gray-200;
+  }
+}
