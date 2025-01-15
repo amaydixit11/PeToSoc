@@ -17,9 +17,9 @@ const geistMono = Geist_Mono({
 
 // Metadata for SEO and accessibility
 export const metadata: Metadata = {
-  title: "Periodic Table of KGPIAN Societies",
+  title: "Periodic Table of IIT Bhilai Clubs",
   description:
-    "A tabular display of societies at KGP, organized by their chemical properties.",
+    "A tabular display of societies and clubs at IIT Bhilai",
 };
 
 export default function RootLayout({

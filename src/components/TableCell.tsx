@@ -296,11 +296,11 @@ export function TableCell(props: TableCellProps) {
       return (
         <SocietyDetails
           name="The Unknown Society"
-          description="Incompleteness creates room for innovation. If your society is not listed here, let us know via the Slack link below."
+          description="Incompleteness creates room for innovation. If your society is not listed here, let us know via the GitHub link below."
           links={[{ 
-            title: "Join Slack", 
-            url: "https://slack.metakgp.org", 
-            Icon: Slack 
+            title: "GitHub", 
+            url: "https://github.com/amaydixit11", 
+            Icon: Globe 
           }]}
           elementProps={props}
         />
@@ -311,12 +311,12 @@ export function TableCell(props: TableCellProps) {
     return (
       <SocietyDetails
         name={`${name} (Undiscovered)`}
-        description="This society has not been discovered yet. If you know any society that fits this category, let us know at the Slack link below."
-        links={[{ 
-          title: "Join Slack", 
-          url: "https://slack.metakgp.org", 
-          Icon: Slack 
-        }]}
+        description="This society has not been discovered yet. If you know any society that fits this category, let us know at the GitHub link below."
+          links={[{ 
+            title: "GitHub", 
+            url: "https://github.com/amaydixit11", 
+            Icon: Globe
+          }]}
         elementProps={props}
       />
     );
