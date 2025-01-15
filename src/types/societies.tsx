@@ -16,7 +16,7 @@ export interface Society {
    */
   size: "S" | "M" | "L" | "XL" | "NA";
   /** Whether the society is recognized by the Technology Students' Gymkhana (TSG). */
-  tsg_recognized: boolean;
+  cosa: boolean;
   /** 
    * Links to the society's socials. Email addresses should be prepended with a `mailto:` and all URLs must use https.
    * See the `Social` type for supported socials.

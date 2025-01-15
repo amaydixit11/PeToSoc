@@ -10,119 +10,88 @@ export const SOCIETIES_ALL: Society[] = [
     name: 'GOALS',
     year: 2018,
     size: 'M',
-    tsg_recognized: true,
-    description: '',
+    cosa: true,
+    description: 'None',
     block: 'CC',
-    links: {
-      website: 'https://arl-kgp.github.io/',
-      fb: 'https://www.facebook.com/aerialroboticskgp',
-      email: 'aerialroboticskharagpur@gmail.com',
-      metawiki: 'https://wiki.metakgp.org/w/Aerial_Robotics_Kharagpur'
-    }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Dr',
     name: 'Drishya',
     year: 2018,
     size: 'L',
-    tsg_recognized: true,
-    description: "",
+    cosa: true,
+    description: "None",
     block: 'CC',
-    links: {
-      website: 'https://issuu.com/awaaz',
-      fb: 'https://www.facebook.com/awaaziitkgp/',
-      insta: 'https://www.instagram.com/awaaziitkgp',
-      linkedin: 'https://linkedin.com/company/awaaz-iit-kharagpur',
-      metawiki: 'https://wiki.metakgp.org/w/Awaaz'
-    }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Sw',
     name: 'Swara',
     year: 2018,
     size: 'NA',
-    tsg_recognized: true,
-    description: 'AGV is an interdisciplinary team aspiring to win the Intelligent Ground Vehicle Competition held at Oakland University and be involved in the Research work related to autonomous and mobile robots.',
+    cosa: true,
+    description: "None",
     block: 'CC',
-    links: {
-      fb: 'https://www.facebook.com/agvkgp/',
-      website: 'https://www.agv.iitkgp.ac.in/',
-      linkedin: 'https://www.linkedin.com/company/autonomous-ground-vehicle-research-group',
-      metawiki: 'https://wiki.metakgp.org/w/AGV'
-    }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Fp',
     name: 'Film Production Society',
     year: 2020,
     size: 'M',
-    tsg_recognized: true,
-    description: '',
+    cosa: true,
+    description: "None",
     block: 'C',
-    links: {
-      fb: 'https://www.facebook.com/The.KGTS/',
-      insta: 'https://www.instagram.com/kgts.iitkgp/',
-      website: 'https://thekgts.wordpress.com/',
-      metawiki: 'https://wiki.metakgp.org/w/The_KGPian_Game_Theory_Society'
-    }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Tp',
     name: 'The Pixel Snappers',
     year: 2018,
     size: 'NA',
-    tsg_recognized: true,
-    description: 'The Quiz Club conducts branstorming sessions and mock quizzes to promote the quizzing culture in the campus. The club usually meets once a week and conducts quizzes.',
+    cosa: true,
+    description: "None",
     block: 'C',
-    links: {
-      fb: 'https://www.facebook.com/iitkgp.quizclub/',
-      insta: 'https://www.instagram.com/iitkgp.qc/'
-    }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Dx',
     name: 'DesignX',
     year: 2019,
     size: 'M',
-    tsg_recognized: true,
-    description: 'Spectra is the Fine Arts Group of the campus which aims to bring together like-minded people who have the shared love for art.',
+    cosa: true,
+    description: "None",
     block: 'C',
-    links: {
-      fb: 'https://www.facebook.com/Spectra.IITKGP/',
-      insta: 'https://www.instagram.com/spectra.iitkgp/',
-      metawiki: 'https://wiki.metakgp.org/w/Spectra'
-    }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Rn',
     name: 'Renaissance',
     year: 2018,
     size: 'XL',
-    tsg_recognized: true,
-    description: 'Technology Dramatics Society Druheen is one of the oldest societies of IIT Kharagpur. It is a dedicated group for theatrical plays in Bengali.',
+    cosa: true,
+    description: "None",
     block: 'CC',
-    links: {
-      fb: 'https://www.facebook.com/tdsdruheen/',
-
-    }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Bh',
     name: 'Beathackers',
     year: 2018,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: "None",
     block: 'CC',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Qz',
     name: 'Quizzotica',
     year: 2020,
     size: 'S',
-    tsg_recognized: false,
-    description: 'An interest driven group of enthusiastic Language Learners who use the group as a platform to reach other learners, organize meetups and share language learning resources.',
+    cosa: false,
+    description: "None",
     block: 'C',
     links: { fb: 'https://www.facebook.com/groups/732492363547374/' },
   },
@@ -131,8 +100,8 @@ export const SOCIETIES_ALL: Society[] = [
     name: 'Neer-Passe',
     year: 2022,
     size: 'S',
-    tsg_recognized: false,
-    description: 'An interest driven group of enthusiastic Language Learners who use the group as a platform to reach other learners, organize meetups and share language learning resources.',
+    cosa: false,
+    description: "None",
     block: 'C',
     links: { fb: 'https://www.facebook.com/groups/732492363547374/' },
   },
@@ -141,320 +110,320 @@ export const SOCIETIES_ALL: Society[] = [
     name: 'OpenLake',
     year: 2020,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: "None",
     block: 'T',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'In',
     name: 'Ingenuity',
     year: 2020,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'T',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Gd',
     name: 'GDG IIT Bhilai',
     year: 2021,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'T',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Ds',
     name: 'DSAI Club',
     year: 2022,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'T',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Bi',
     name: 'BIB',
     year: 2022,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'T',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Ep',
     name: 'Epsilon',
     year: 2018,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'TO',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'El',
     name: 'Electromos',
     year: 2018,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'TO',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Ms',
     name: 'Motorsports',
     year: 2020,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'TO',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Se',
     name: 'SES',
     year: 2018,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'TO',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Sp',
     name: 'Spectra',
     year: 2024,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'T',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Ft',
     name: 'FinTech',
     year: 2024,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'TO',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Ec',
     name: 'E-Cell',
     year: 2024,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'M',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Ni',
     name: 'Nirvana',
     year: 2018,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'W',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Mg',
     name: 'Management Committee',
     year: 2018,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'M',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Sm',
     name: 'Social Media Team',
     year: 2024,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'M',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Ou',
     name: 'Outreach',
     year: 2018,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'M',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Eb',
     name: 'EBSB',
     year: 2022,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'M',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Cc',
     name: 'CCPS',
     year: 2022,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'O',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Sa',
     name: 'Student Alumni Council',
     year: 2022,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'O',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Ns',
     name: 'NSS',
     year: 2018,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'W',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'No',
     name: 'NSO',
     year: 2018,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'M',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Fo',
     name: 'FOSS',
     year: 2024,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'TO',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Me',
     name: 'Mess Committee',
     year: 2018,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'M',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Cu',
     name: 'Culinary',
     year: 2030,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'C',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Co',
     name: 'Comedy Club',
     year: 2030,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'CC',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'An',
     name: 'Anime Club',
     year: 2030,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'C',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Op',
     name: 'Optica',
     year: 2024,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'TO',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Aw',
     name: 'Animal Welfare Society',
     year: 2030,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'W',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Ga',
     name: 'Game Dev',
     year: 2030,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'T',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   {
     symbol: 'Av',
     name: 'AR/VR',
     year: 2030,
     size: 'S',
-    tsg_recognized: true,
-    description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+    cosa: true,
+    description: 'None',
     block: 'TO',
-    links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+    links: { insta: "https://github.com/amaydixit11"}
   },
   // {
   //   symbol: 'Sp',
   //   name: 'Sports Council',
   //   year: 2030,
   //   size: 'S',
-  //   tsg_recognized: true,
-  //   description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+  //   cosa: true,
+  //   description: 'None',
   //   block: 'S',
-  //   links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+  //   links: { insta: "https://github.com/amaydixit11"}
   // },
   // {
   //   symbol: 'Re',
   //   name: 'Recreational Sports',
   //   year: 2030,
   //   size: 'S',
-  //   tsg_recognized: true,
-  //   description: 'WTMS is a group of self learned musicians who explore different genres of western music. They perform an hourly concert every semester and keep the musical veins throbbing in the campus.',
+  //   cosa: true,
+  //   description: 'None',
   //   block: 'S',
-  //   links: { fb: 'https://www.facebook.com/wtmsiitkgp/' }
+  //   links: { insta: "https://github.com/amaydixit11"}
   // },
 ]
 // try {
